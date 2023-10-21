@@ -10,10 +10,10 @@ My academic journey unfolded in the realm of astrophysics, culminating in a nuan
 Utilising an array of data science and AI strategies to unveil actionable insights, optimise decision-making processes, and drive pioneering innovations across various sectors.
 
 ### 🛠️ Technologies & Models:
-- Proficient in: Python, PyTorch, Huggingface, Pandas, SQL, Scikit-learn
-- Platforms: Microsoft Azure, Cloud Computing, Linux
-- Data Visualisation: Expertise in Matplotlib, Seaborn, Plotly
-- AI Models: Skilled in Language Models (LLMs) including LLaMa 2, GPT-based models, Mistral AI, Falcon, and visual transformers like the Segment Anything Model
+- **Proficient in**: Python, PyTorch, Huggingface, Pandas, SQL, Scikit-learn
+- **Platforms**: Microsoft Azure, Cloud Computing, Linux
+- **Data Visualisation**: Expertise in Matplotlib, Seaborn, Plotly
+- **AI Models**: Skilled in Language Models (LLMs) including LLaMa 2, GPT-based models, Mistral AI, Falcon, and visual transformers like the Segment Anything Model
 
 ### 🤝 Collaboration 
 Eager to engage in collaborations that promote intellectual exploration, knowledge dissemination, and collective advancement in analytical and technological domains.
