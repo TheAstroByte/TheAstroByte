@@ -10,7 +10,7 @@
 ---
 
 ## 👋 About me
-Astrophysicist-turned-Machine Learning Engineer who loves tackling messy, high-impact problems with first-principles thinking and hands-on ML. I specialise in building **production-grade LLM solutions** (agents, RAG, evaluation pipelines) and sharing that know-how across large organisations. Always learning, always building. :contentReference[oaicite:0]{index=0}
+Astrophysicist-turned-Machine Learning Engineer who loves tackling messy, high-impact problems with first-principles thinking and hands-on ML. I specialise in building **production-grade LLM solutions** (agents, RAG, evaluation pipelines) and sharing that know-how across large organisations. Always learning, always building.
 
 ## 💼 What I’m working on
 | | |
@@ -23,20 +23,20 @@ Astrophysicist-turned-Machine Learning Engineer who loves tackling messy, high-i
 ## 🛠 Core expertise
 - **Generative AI** LLMs (GPT models, o-series models, Claude, Gemini, Mistral, and Llama models), RAG, prompt/agent design  
 - **ML engineering** PyTorch • Hugging Face • AutoGen • Semantic Kernel 
-- **Cloud & infra** Microsoft Azure (AI Foundry), Linux, CLI-first workflows
-- **Data at any scale** kB → TB; structured, text, scientific (astro & particle physics), geospatial :contentReference[oaicite:1]{index=1}  
+- **Cloud & infra** Microsoft Azure (AI Foundry), Linux, CLI-first workflows, Supercomputer Cluster
+- **Data at any scale** kB → TB; structured, text, scientific (astro & particle physics), geospatial, timeseries
 - **Visualization & communication** Matplotlib • Plotly • narrative dashboards • technical storytelling
 
 ## 📚 Background
 - **MSc Astrophysics**, University of Copenhagen — *Modelling Collapse & Accretion of Protostellar Systems*  
 - **BSc (Hons) Theoretical Physics**, Imperial College London — *Neural Tangent Networks for Galaxy Redshift Estimation*  
-- Former board member, presenter & academic representative; experienced public speaker. :contentReference[oaicite:2]{index=2}
+- Former board member & academic representative; experienced public speaker.
 
 ## 🤝 Let’s collaborate
 I’m always up for:
 - Designing or reviewing AI/ML architectures
-- Speaking about open-source AI, LLM ops, or the journey *from deep space to deep learning*
-- Contributing to mission-driven open-source projects
+- Speaking about open-source AI, LLMs, or the journey *from deep space to deep learning*
+- Contributing to mission-driven, open, and transparent projects
 
 ## 📫 Contact
 - **Email** <TheAstroByte@gmail.com>  
