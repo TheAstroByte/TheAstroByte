@@ -1,52 +1,48 @@
-<!-- Banner (feel free to swap the image/colour or remove entirely) -->
+<!-- Banner -->
 <h1 align="center">
   From Deep&nbsp;Space&nbsp;🚀 to Deep&nbsp;Learning&nbsp;🤖
 </h1>
 <p align="center">
-  <b>Daniel Dalsgaard Jonsson — Machine Learning Engineer @ Rambøll&nbsp;Tech</b><br>
-  LLMs • AI Agents • Generative AI • RAG • Azure & OSS • Astrophysics-inspired problem solver
+  <b>Daniel Dalsgaard Jonsson — Machine Learning Specialist @ JPPOL</b><br>
+  Building context-aware AI for editorial use • RAG & open-source LLMs • Astrophysics-inspired problem solver
 </p>
 
 ---
 
 ## 👋 About me
-Astrophysicist-turned-Machine Learning Engineer who loves tackling messy, high-impact problems with first-principles thinking and hands-on ML. I specialise in building **production-grade LLM solutions** (agents, RAG, evaluation pipelines) and sharing that know-how across large organisations. Always learning, always building.
+I’m an astrophysicist-turned-machine learning specialist with a passion for translating complex systems — whether cosmic or computational — into elegant, practical tools.  
+At **JPPOL**, I focus on building **LLM-driven translation and editorial systems**, integrating context engineering, structured data extraction, and evaluation into real-world publishing workflows. My goal: making AI a trusted creative partner for editors and authors.
+
+Before joining JPPOL, I worked at **Rambøll Tech**, where I helped design **LLM production frameworks** (agents, RAG, auto-eval), led internal AI initiatives, and championed open-source collaboration. Curiosity drives everything I build.
 
 ## 💼 What I’m working on
 | | |
 |---|---|
-| **RamGPT — AI agents on internal knowledge** | 🔨 Building the agent framework, retrieval stack and auto-eval pipeline on Azure AI Foundry |
-| **Open-source migration** | 🚚 Porting in-house tooling → [OpenWebUI](https://github.com/open-webui/open-webui) to future-proof workflows |
-| **AI-assisted report writing** | ✍️ Designed end-to-end AI approach; product launched **Mar 2025** |
-| **LLM/AI knowledge-sharing** | 🎤 Talks & workshops for 10–200 colleagues; advising cross-functional teams on AI strategy |
+| **MAGNA — LLM-based translation tool** | 🧠 Building context-aware translation systems for editorial teams; combining LLM pipelines with human expertise |
+| **RamGPT — AI agents on internal knowledge** | 🔨 Developed agent and retrieval architecture on Azure AI Foundry |
+| **Open-source migration** | 🚚 Transitioning internal LLM tooling to [OpenWebUI](https://github.com/open-webui/open-webui) for scalable, transparent workflows |
+| **AI-assisted report writing** | ✍️ Created the first production-ready AI-assisted writing tool; launched **Mar 2025** |
+| **LLM/AI knowledge-sharing** | 🎤 Talks, workshops, and strategy sessions on responsible and effective use of LLMs |
 
 ## 🛠 Core expertise
-- **Generative AI** LLMs (GPT models, o-series models, Claude, Gemini, Mistral, and Llama models), RAG, prompt/agent design  
-- **ML engineering** PyTorch • Hugging Face • AutoGen • Semantic Kernel 
-- **Cloud & infra** Microsoft Azure (AI Foundry), Linux, CLI-first workflows, Supercomputer Cluster
-- **Data at any scale** kB → TB; structured, text, scientific (astro & particle physics), geospatial, timeseries
-- **Visualization & communication** Matplotlib • Plotly • narrative dashboards • technical storytelling
+- **Generative AI** LLMs (GPT models, Claude, Gemini, Mistral, Llama) • RAG • prompt/agent design  
+- **ML engineering** PyTorch • Hugging Face • AutoGen • Semantic Kernel  
+- **Cloud & infra** Azure AI • Linux • CLI-first workflows • HPC clusters  
+- **Data at any scale** From kB to TB — structured, text, scientific, geospatial, timeseries  
+- **Visualization & communication** Matplotlib • Plotly • narrative dashboards • technical storytelling  
 
 ## 📚 Background
 - **MSc Astrophysics**, University of Copenhagen — *Modelling Collapse & Accretion of Protostellar Systems*  
 - **BSc (Hons) Theoretical Physics**, Imperial College London — *Neural Tangent Networks for Galaxy Redshift Estimation*  
+- *Published work:* [*Preferential accretion of binary stars*](https://arxiv.org/abs/2510.11805), accepted in *Astronomy & Astrophysics* (2025)  
 - Former board member & academic representative; experienced public speaker.
 
 ## 🤝 Let’s collaborate
 I’m always up for:
-- Designing or reviewing AI/ML architectures
-- Speaking about open-source AI, LLMs, or the journey *from deep space to deep learning*
-- Contributing to mission-driven, open, and transparent projects
+- Exploring new ways to merge creativity and computation  
+- Reviewing AI/ML architectures or research-driven approaches  
+- Speaking about open-source AI, LLMs, or the journey *from deep space to deep learning*  
 
 ## 📫 Contact
 - **Email** <TheAstroByte@gmail.com>  
-- **LinkedIn** [www.linkedin.com/in/danieldalsgaard](www.linkedin.com/in/danieldalsgaard)  
-
-
-<!-- Optional flair -->
-<!-- GitHub profile views badge -->
-<!-- ![Visitors](https://komarev.com/ghpvc/?username=danieldalsgaard&style=flat-square) -->
-
-<!-- GitHub stats (replace 'danieldalsgaard' with your user) -->
-<!-- ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieldalsgaard&show_icons=true&hide=stars&count_private=true) -->
-
+- **LinkedIn** [www.linkedin.com/in/danieldalsgaard](https://www.linkedin.com/in/danieldalsgaard)
